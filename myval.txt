@@ -1,0 +1,3 @@
+STAGING_ALCHEMY_KEY= https://eth-rinkeby.alchemyapi.io/v2/0ef9YstxNTRuHV-LMaBYMREIky46gq-Q
+PROD_ALCHEMY_KEY= 
+PRIVATE_KEY= 8621adbd4c0e5406528e1e734911a6bceb1dd47e1ea9ef6fdae3bb03cfa24ecc 
